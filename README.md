@@ -1,9 +1,13 @@
-# Azure Blockchain dApps events
+# Provenance tracking dApp in Reactjs
 
-## Goal: Create a dApp that will showcase reactions to events surfaced by state changes in blockchain
+## Goal: Create provenance tracking dApp with no centralized database
 
+Create a web application that will surface history for a component tracked by a smart contract with no centralized database
 
-The challenge was to create a decentralized application with the VS Code extension, that will be comprised of at least one Smart Contract that will raise an event in response to a state change. The extension will also be used to create a Blockchain Data Manager on Azure application that the ReactJS application that will listen for these events and provide a toast notification to the app if a specific state change occurs.
+In this challenge, the goal is to create a decentralized application with the VS Code extension, that will allow users to query the history of a component that is defined in a smart contract. This history will include that state change data, approximate time based on block/transaction data along with the user address of the user who made the change. The application should be built using ReactJS. It should be demonstrated that state changes (transactions) not initiated by the application can be inspected.
 
+Thank to the Azure Gitcoin Bounty https://gitcoin.co/issue/Azure-Samples/bc-community-samples/78/4347
 
-Part of the Azure Gitcoin Bounty https://gitcoin.co/issue/Azure-Samples/bc-community-samples/77/4346
+# Demo
+
+https://provenance-tracking-dapp.x5engine.com
