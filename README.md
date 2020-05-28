@@ -11,3 +11,11 @@ Thank to the Azure Gitcoin Bounty https://gitcoin.co/issue/Azure-Samples/bc-comm
 # Demo
 
 https://provenance-tracking-dapp.x5engine.com
+
+Video Demo:
+
+https://www.youtube.com/watch?v=pjez7DQUxR4
+
+Tweet:
+
+https://twitter.com/ucefkh/status/1265802332186521600
