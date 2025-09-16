@@ -10,7 +10,7 @@
     "ms-rest-azure": "^3.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-toast-notifications": "^2.4.0",
     "truffle-hdwallet-provider": "^1.0.17",
     "uuid": "^8.1.0",
